@@ -4,7 +4,7 @@ This project provides a brief introduction to the approach of Image Segmentation
 
 ## Documentation
 
-Included in the repository is a comprehensive PDF document titled `Segmentation of Pelvic Bone for 2d X.pdf`. This document contains detailed descriptions of the problem analysis, the rationale behind the choice of transformer functions and the U-Net model for image segmentation, hyperparameter tuning, and a thorough discussion of the results. It serves as a complete guide to understanding the methodologies and outcomes of this project.
+Included in the repository is a comprehensive PDF document titled `Project-Report.pdf`. This document contains detailed descriptions of the problem analysis, the rationale behind the choice of transformer functions and the U-Net model for image segmentation, hyperparameter tuning, and a thorough discussion of the results. It serves as a complete guide to understanding the methodologies and outcomes of this project.
 
 ## Code Files
 
