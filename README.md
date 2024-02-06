@@ -22,9 +22,4 @@ Please note that some outputs in the notebooks are exceptionally long due to ext
 
 ## Getting Started
 
-To get started with this project:
-
-1. Download the provided notebooks and the PDF document.
-2. Ensure you have Jupyter Notebook or JupyterLab installed to run the `.ipynb` files.
-3. Read the `Segmentation of Pelvic Bone for 2d X.pdf` document for a detailed understanding of the project scope, methodology, and results.
-4. Execute the notebooks in the order mentioned to replicate the segmentation process and results.
+To get started with this project, reading of `Project-Report.pdf` (aout 20 page in maximum) is highly recommendable before approaching the code.
